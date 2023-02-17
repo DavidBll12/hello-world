@@ -1,2 +1,3 @@
-# hello-world
-a place to store ideas, resources, or even share and discuss things with others.
+# Github Introduction Project
+
+**Readme File For First Github Repository**
